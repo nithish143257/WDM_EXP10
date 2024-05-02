@@ -29,11 +29,11 @@ To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 
 ### Output:
 
-![image](https://github.com/Nagajyothichinta/WDM_EXP10/assets/94191344/cea67abb-c8c2-4dd8-930f-932cf3bbab88)
+![image](https://github.com/nithish143257/WDM_EXP10/assets/113762839/fb530933-6d3e-496e-9758-b4cf1bfbd6e8)
 
-![image](https://github.com/Nagajyothichinta/WDM_EXP10/assets/94191344/78e86778-2709-48f9-99d6-4cb61d7e266b)
+![image](https://github.com/nithish143257/WDM_EXP10/assets/113762839/77d29a34-0f6b-49b5-bfba-f18c2f7e3160)
 
-![image](https://github.com/Nagajyothichinta/WDM_EXP10/assets/94191344/8decaf46-4703-4feb-8969-d1d6e65c629c)
+![image](https://github.com/nithish143257/WDM_EXP10/assets/113762839/50be3d9a-be11-4614-8702-0fd3d5132097)
 
 ### Result:
 Thus sentimental analysis for twitter data is executed successfully using rapidminer.
